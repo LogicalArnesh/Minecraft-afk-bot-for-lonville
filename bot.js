@@ -19,7 +19,7 @@ function restartApp() {
 
 const bot = mineflayer.createBot({
   host: 'XI.ECrew69.play.hosting', // e.g., 'play.example.com'
-  port: ,             // default Minecraft port
+  port: 23115 ,             // default Minecraft port
   username: `XI_E_BOT_SERVICE`,   // can be an email if using a real account
    version: '1.21.4'
         // password: 'your_password', // only if using a real Mojang/Microsoft account
